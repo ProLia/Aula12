@@ -1,4 +1,11 @@
 aue
+<<<<<<< HEAD
 Richard roubou pão na casa do grimaldi
 
 TESTE
+=======
+lorenzo roubou pão na casa do Felipe
+>>>>>>> 1771f8be3cd1e57282eae39b9305d4a82d410eed
+
+
+"Um dia é da caça do que dois voando" (Xabau)
