@@ -1,2 +1,6 @@
 aue
+<<<<<<< HEAD
 banana
+=======
+Richard roubou pão na casa do grimaldi
+>>>>>>> 20ad95897221bc24d8f4abb3cc4a580fa33b1737
