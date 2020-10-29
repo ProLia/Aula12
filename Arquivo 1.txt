@@ -1,6 +1,18 @@
 aue
 <<<<<<< HEAD
+<<<<<<< HEAD
 banana
 =======
 Richard roubou pão na casa do grimaldi
 >>>>>>> 20ad95897221bc24d8f4abb3cc4a580fa33b1737
+=======
+Richard roubou pão na casa do grimaldi
+
+TESTE
+=======
+lorenzo roubou pão na casa do Felipe
+>>>>>>> 1771f8be3cd1e57282eae39b9305d4a82d410eed
+
+
+"Um dia é da caça do que dois voando" (Xabau)
+>>>>>>> 08f30f33218321a5cddd665596ccd5feaf00875d
